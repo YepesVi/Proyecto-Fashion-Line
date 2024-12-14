@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "675a093256911b38520482c6"
+  },
+  "nombre": "Camiseta Básica",
+  "descripcion": "Camiseta de algodón, disponible en varios colores",
+  "talla": "M",
+  "categoria": "Ropa Casual",
+  "precio": 15.99,
+  "stock": 99,
+  "_class": "com.FashionLine.InventAPI.Model.Producto"
+},
+{
+  "_id": {
+    "$oid": "675a093256911b38520482c7"
+  },
+  "nombre": "Pantalón Deportivo",
+  "descripcion": "Pantalón cómodo para entrenar, tela de secado rápido",
+  "talla": "XL",
+  "categoria": "Ropa Deportiva",
+  "precio": 25.5,
+  "stock": 50,
+  "_class": "com.FashionLine.InventAPI.Model.Producto"
+},
+{
+  "_id": {
+    "$oid": "675a093256911b38520482c8"
+  },
+  "nombre": "Chaqueta de Invierno",
+  "descripcion": "Chaqueta impermeable con forro térmico",
+  "talla": "XL",
+  "categoria": "Abrigos",
+  "precio": 59.99,
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "675cbbf13f5f531ea66ca9c9"
+  },
+  "nombre": "Vestido de noche",
+  "descripcion": "Vestido elegante para ocasiones especiales",
+  "talla": "S",
+  "categoria": "Ropa de Mujer",
+  "precio": 25.5,
+  "stock": 50,
+  "_class": "com.FashionLine.InventAPI.Model.Producto"
+},
+{
+  "_id": {
+    "$oid": "675cd1213f5f531ea66ca9cd"
+  },
+  "nombre": "Chaqueta",
+  "descripcion": "Chaqueta de cuero",
+  "talla": "M",
+  "categoria": "Unisex",
+  "precio": 1212,
+  "stock": 0,
+  "_class": "com.FashionLine.InventAPI.Model.Producto"
+},
+{
+  "_id": {
+    "$oid": "675cdc283f5f531ea66ca9ce"
+  },
+  "nombre": "Camiseta Deportiva",
+  "descripcion": "Camiseta para correr",
+  "talla": "L",
+  "categoria": "Ropa Deportiva",
+  "precio": 60000,
+  "stock": 23,
+  "_class": "com.FashionLine.InventAPI.Model.Producto"
+}]
